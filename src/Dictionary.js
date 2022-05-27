@@ -25,6 +25,11 @@ export default function Dictionary() {
     <div className="Dictionary">
       <form onSubmit={search}>
         <input type="search" onChange={handleWordChange} />
+        <button type="submit">
+          <span role="img" aria-label="search">
+            Search
+          </span>
+        </button>
       </form>
       <Results results={results} />
     </div>
