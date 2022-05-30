@@ -4,5 +4,9 @@
   font-size: 15px;
 }
 .App {
-  text-align: center;
+  background-color: #d5c6d5;
+}
+a {
+  color: #ee46e2;
+  text-decoration: none;
 }
