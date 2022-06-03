@@ -4,6 +4,9 @@
 
 .Synonyms li {
   display: inline-block;
-  padding-right: 15px;
+  margin: 5px;
+  padding: 8px;
   font-size: 13px;
+  border: solid rgba(102, 101, 101, 0.596) 1px;
+  border-radius: 15px;
 }
