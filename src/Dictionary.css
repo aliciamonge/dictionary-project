@@ -19,3 +19,8 @@
   background: rgba(237, 197, 233, 0.397);
   border: 1px solid #ddd;
 }
+@media (max-width: 600px) {
+  button {
+    display: none;
+  }
+}
