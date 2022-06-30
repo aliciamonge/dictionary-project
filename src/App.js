@@ -23,7 +23,7 @@ function App() {
           <a
             href="https://cocky-fermi-cfce54.netlify.app/"
             target="_blank"
-            rel="nonreferrer"
+            rel="noreferrer"
           >
             Alicia
           </a>
