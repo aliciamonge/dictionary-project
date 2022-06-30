@@ -19,7 +19,14 @@ function App() {
           >
             code
           </a>{" "}
-          by Alicia
+          by{" "}
+          <a
+            href="https://cocky-fermi-cfce54.netlify.app/"
+            target="_blank"
+            rel="nonreferrer"
+          >
+            Alicia
+          </a>
         </footer>
       </div>
     </div>
